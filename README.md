@@ -16,4 +16,4 @@ You can learn how to secure your application with spring security and `role base
 ## ✉️ Contact
 Name - Mu Kham Aw <br> LinkedIn profile -  [Mu Kham Aw's LinkedIn](https://www.linkedin.com/in/mu-kham-aw-b12860196/)  <br> Email Address - mukhamaw@gmail.com
 
-Project Link: [Sample API Receiver Service](https://github.com/mukhamaw-mm/spring-security-jwt)
+Project Link: [Spring Security JWT](https://github.com/mukhamaw-mm/spring-security-jwt)
